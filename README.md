@@ -19,12 +19,12 @@ I don't hand code. I direct AI tools like Claude and Claude Code to design, buil
 | [Lead Gen Automation](https://ronaldlenser.github.io/lead-gen-automation/) | 6 n8n workflows that find local businesses with no website, verify it 9 ways, write personal emails with Claude, sort replies and build a sales pipeline. | n8n, Claude, Google Sheets, Gmail, Apify, Serper | [breakdown](https://ronaldlenser.github.io/lead-gen-automation/) · [code](https://github.com/RonaldLenser/lead-gen-automation) |
 | [Ron Lenser Digital](https://www.ronlenserdigital.com/) | Agency site. React + Vite + Tailwind, prerendered SEO pages, deployed on Vercel. | React, Vite, Tailwind, Vercel | [code](https://github.com/ronlenserdigital/ronlenserdigital-v2) |
 | [CIPHER_](https://cipher-swart-omega.vercel.app/) | End to end encrypted messaging app. Discord style Circles, user held keys, panic wipe, Windows desktop build. Sells $199.99 Circle Keys. | Next.js, Supabase, Tauri, Vercel | [showcase](https://github.com/RonaldLenser/cipher-encrypted-messenger) |
-| [TutorTime](https://tutortimeact.com/) | Tutoring web app for ACT and SAT prep with booking flow and score focused landing pages. | JavaScript, HTML, CSS | [code](https://github.com/ronlenserdigital/tutortime) |
-| [Helix Research Technologies](https://ronlenserdigital.github.io/helix-website/) | Site for an AI agent agency serving lab and medical supply companies. | TypeScript | [code](https://github.com/ronlenserdigital/helix-website) |
-| [BHR Custom Homes](https://bhrcustomhomes.com/) | Luxury custom home builder rebrand and site. | HTML, CSS, JS | [code](https://github.com/ronlenserdigital/bhr-custom-homes) |
-| [Seguro Insurance Center](https://seguroinsurancecenter.com/) | Auto insurance, SR-22 and FR-44 agency site. | HTML, CSS, JS | [code](https://github.com/ronlenserdigital/seguroinsurancecentercom) |
-| [THE MOT1VATOR](https://ronlenserdigital.github.io/the-mot1vator/) | Motivational clothing brand site. | HTML, CSS, JS | [code](https://github.com/ronlenserdigital/the-mot1vator) |
-| [PabloHoney Bikes](https://ronlenserdigital.github.io/pablohoney-bikes/) | Mountain bike shop redesign. | HTML, CSS, JS | [code](https://github.com/ronlenserdigital/pablohoney-bikes) |
+| [TutorTime](https://tutortimeact.com/) | Tutoring web app for ACT and SAT prep with booking flow and score focused landing pages. | JavaScript, HTML, CSS | [code](https://github.com/RonaldLenser/websites/tree/main/software-and-ai/tutortime) |
+| [Helix Research Technologies](https://ronlenserdigital.github.io/helix-website/) | Site for an AI agent agency serving lab and medical supply companies. | TypeScript | [code](https://github.com/RonaldLenser/websites/tree/main/software-and-ai/helix-research-technologies) |
+| [BHR Custom Homes](https://bhrcustomhomes.com/) | Luxury custom home builder rebrand and site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/contractors-and-home-services/bhr-custom-homes) |
+| [Seguro Insurance Center](https://seguroinsurancecenter.com/) | Auto insurance, SR-22 and FR-44 agency site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/professional-services/seguro-insurance) |
+| [THE MOT1VATOR](https://ronlenserdigital.github.io/the-mot1vator/) | Motivational clothing brand site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/brands-and-retail/the-mot1vator) |
+| [PabloHoney Bikes](https://ronlenserdigital.github.io/pablohoney-bikes/) | Mountain bike shop redesign. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/brands-and-retail/pablohoney-bikes) |
 
 ## Everything else
 
