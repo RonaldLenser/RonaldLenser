@@ -6,17 +6,17 @@ I build websites, web apps and automations with AI and ship them fast. Founder o
 
 I don't hand code. I direct AI tools like Claude and Claude Code to design, build, test and deploy real software for real businesses. **54 projects shipped since 2025.**
 
-**[See the full portfolio with screenshots](https://ronaldlenser.github.io)**
+**[Resume and full portfolio with screenshots](https://www.ronlenserdigital.com/resume)**
 
 ## Latest: Lead Gen Automation
 
-6 n8n workflows and one Google Sheet that run my agency's lead gen on autopilot. Scrapes local contractors with no website, verifies it 9 ways with search APIs and Claude, sends a personal 3 email sequence, sorts replies and builds my sales pipeline. **[See how it works](https://ronaldlenser.github.io/lead-gen-automation/)**
+6 n8n workflows and one Google Sheet that run my agency's lead gen on autopilot. Scrapes local contractors with no website, verifies it 9 ways with search APIs and Claude, sends a personal 3 email sequence, sorts replies and builds my sales pipeline. **[See how it works](https://www.ronlenserdigital.com/work/lead-gen-automation)**
 
 ## Featured work
 
 | Project | What it is | Stack | Link |
 |---|---|---|---|
-| [Lead Gen Automation](https://ronaldlenser.github.io/lead-gen-automation/) | 6 n8n workflows that find local businesses with no website, verify it 9 ways, write personal emails with Claude, sort replies and build a sales pipeline. | n8n, Claude, Google Sheets, Gmail, Apify, Serper | [breakdown](https://ronaldlenser.github.io/lead-gen-automation/) · [code](https://github.com/RonaldLenser/lead-gen-automation) |
+| [Lead Gen Automation](https://www.ronlenserdigital.com/work/lead-gen-automation) | 6 n8n workflows that find local businesses with no website, verify it 9 ways, write personal emails with Claude, sort replies and build a sales pipeline. | n8n, Claude, Google Sheets, Gmail, Apify, Serper | [breakdown](https://www.ronlenserdigital.com/work/lead-gen-automation) · [code](https://github.com/RonaldLenser/lead-gen-automation) |
 | [Ron Lenser Digital](https://www.ronlenserdigital.com/) | Agency site. React + Vite + Tailwind, prerendered SEO pages, deployed on Vercel. | React, Vite, Tailwind, Vercel | [code](https://github.com/ronlenserdigital/ronlenserdigital-v2) |
 | [CIPHER_](https://cipher-swart-omega.vercel.app/) | End to end encrypted messaging app. Discord style Circles, user held keys, panic wipe, Windows desktop build. Sells $199.99 Circle Keys. | Next.js, Supabase, Tauri, Vercel | [showcase](https://github.com/RonaldLenser/cipher-encrypted-messenger) |
 | [TutorTime](https://tutortimeact.com/) | Tutoring web app for ACT and SAT prep with booking flow and score focused landing pages. | JavaScript, HTML, CSS | [code](https://github.com/RonaldLenser/websites/tree/main/software-and-ai/tutortime) |
@@ -29,7 +29,7 @@ I don't hand code. I direct AI tools like Claude and Claude Code to design, buil
 ## Everything else
 
 **Automation**  
-[Lead Gen Automation](https://ronaldlenser.github.io/lead-gen-automation/)
+[Lead Gen Automation](https://www.ronlenserdigital.com/work/lead-gen-automation)
 
 **Software & AI**  
 [Ron Lenser Digital](https://www.ronlenserdigital.com/) · [CIPHER_](https://cipher-swart-omega.vercel.app/) · [TutorTime](https://tutortimeact.com/) · [Helix Research Technologies](https://ronlenserdigital.github.io/helix-website/) · [Onyx Supplements SEO Audit](https://ronlenserdigital.github.io/onyxsupps-seo-audit/) · [Stormline](https://ronlenserdigital.github.io/chasethestorm/) · [Top-Tier Leads Dashboard](https://ronlenserdigital.github.io/getontheroof/)
