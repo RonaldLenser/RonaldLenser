@@ -4,7 +4,7 @@
 
 I build websites, web apps and automations with AI and ship them fast. Founder of [Ron Lenser Digital](https://www.ronlenserdigital.com) in Fredericksburg, VA.
 
-I don't hand code. I direct AI tools like Claude and Claude Code to design, build, test and deploy real software for real businesses. **54 projects shipped since 2025.**
+I don't hand code. I direct AI tools like Claude and Claude Code to design, build, test and deploy real software for real businesses. **50+ projects shipped since 2025.**
 
 **[Resume and full portfolio with screenshots](https://www.ronlenserdigital.com/resume)**
 
@@ -20,7 +20,6 @@ I don't hand code. I direct AI tools like Claude and Claude Code to design, buil
 | [Ron Lenser Digital](https://www.ronlenserdigital.com/) | Agency site. React + Vite + Tailwind, prerendered SEO pages, deployed on Vercel. | React, Vite, Tailwind, Vercel | [code](https://github.com/ronlenserdigital/ronlenserdigital-v2) |
 | [CIPHER_](https://cipher-swart-omega.vercel.app/) | End to end encrypted messaging app. Discord style Circles, user held keys, panic wipe, Windows desktop build. Sells $199.99 Circle Keys. | Next.js, Supabase, Tauri, Vercel | [showcase](https://github.com/RonaldLenser/cipher-encrypted-messenger) |
 | [TutorTime](https://tutortimeact.com/) | Tutoring web app for ACT and SAT prep with booking flow and score focused landing pages. | JavaScript, HTML, CSS | [code](https://github.com/RonaldLenser/websites/tree/main/software-and-ai/tutortime) |
-| [Helix Research Technologies](https://ronlenserdigital.github.io/helix-website/) | Site for an AI agent agency serving lab and medical supply companies. | TypeScript | [code](https://github.com/RonaldLenser/websites/tree/main/software-and-ai/helix-research-technologies) |
 | [BHR Custom Homes](https://bhrcustomhomes.com/) | Luxury custom home builder rebrand and site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/contractors-and-home-services/bhr-custom-homes) |
 | [Seguro Insurance Center](https://seguroinsurancecenter.com/) | Auto insurance, SR-22 and FR-44 agency site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/professional-services/seguro-insurance) |
 | [THE MOT1VATOR](https://ronlenserdigital.github.io/the-mot1vator/) | Motivational clothing brand site. | HTML, CSS, JS | [code](https://github.com/RonaldLenser/websites/tree/main/brands-and-retail/the-mot1vator) |
@@ -32,7 +31,7 @@ I don't hand code. I direct AI tools like Claude and Claude Code to design, buil
 [Lead Gen Automation](https://www.ronlenserdigital.com/work/lead-gen-automation)
 
 **Software & AI**  
-[Ron Lenser Digital](https://www.ronlenserdigital.com/) · [CIPHER_](https://cipher-swart-omega.vercel.app/) · [TutorTime](https://tutortimeact.com/) · [Helix Research Technologies](https://ronlenserdigital.github.io/helix-website/) · [Onyx Supplements SEO Audit](https://ronlenserdigital.github.io/onyxsupps-seo-audit/) · [Stormline](https://ronlenserdigital.github.io/chasethestorm/) · [Top-Tier Leads Dashboard](https://ronlenserdigital.github.io/getontheroof/)
+[Ron Lenser Digital](https://www.ronlenserdigital.com/) · [CIPHER_](https://cipher-swart-omega.vercel.app/) · [TutorTime](https://tutortimeact.com/) · [Onyx Supplements SEO Audit](https://ronlenserdigital.github.io/onyxsupps-seo-audit/) · [Stormline](https://ronlenserdigital.github.io/chasethestorm/) · [Top-Tier Leads Dashboard](https://ronlenserdigital.github.io/getontheroof/)
 
 **Contractors & Home Services**  
 [BHR Custom Homes](https://bhrcustomhomes.com/) · [America Affordable Home Improvement](https://americahomeimprovement.org/) · [Bright Renovations](https://ronlenserdigital.github.io/bright-renovations/) · [Impact Concrete Breaking](https://ronlenserdigital.github.io/impact-concrete-breaking/) · [Burns Landscaping](https://ronlenserdigital.github.io/burnslandscaping/) · [Pinpoint Calibration Service](https://pinpointcalibrationservice.com/) · [The Polished Abode](https://ronlenserdigital.github.io/the-polished-abode/) · [Ozark Elite Detailing](https://ronlenserdigital.github.io/ozarkelite/) · [NatuFresh](https://ronlenserdigital.github.io/NatuFresh/) · [Quality Care Janitorial](https://ronlenserdigital.github.io/qualitycareservices/) · [Nova Auto Repair](https://ronlenserdigital.github.io/novaautorepair/) · [Sitto's Computer Repair](https://ronlenserdigital.github.io/SittoComputerRepair/) · [L&M Integrations](https://ronlenserdigital.github.io/lm-integrations/)
